@@ -2,6 +2,15 @@
 
 Port of the Impact engine and bundled examples, with docs maintained in Markdown for easier maintenance and GitHub browsing.
 
+## Run Locally
+
+```bash
+npm install
+npm start
+```
+
+Server binds to `PORT` (defaults to `3000` locally).
+
 ## Project Structure
 
 - [`impact/`](impact/) - core engine and Weltmeister assets
@@ -23,3 +32,4 @@ Port of the Impact engine and bundled examples, with docs maintained in Markdown
 ## Notes
 
 - Documentation is maintained directly in Markdown under `impact-docs/`.
+- `server.js` is a minimal Express host suitable for Heroku-style deployment.
