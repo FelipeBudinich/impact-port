@@ -32,7 +32,6 @@ Converted from the original HTML docs for easier editing and linking.
 - [Impact On Mobile Platforms](documentation-impact-on-mobile-platforms.md)
 - [Physics With Box2D](documentation-physics-with-box2d.md)
 - [Video Tutorial Create A Game](documentation-video-tutorial-create-a-game.md)
-- [Video Tutorial Weltmeister](documentation-video-tutorial-weltmeister.md)
 - [Weltmeister](documentation-weltmeister.md)
 - [Working With Assets](documentation-working-with-assets.md)
 - [Documentation](documentation.md)

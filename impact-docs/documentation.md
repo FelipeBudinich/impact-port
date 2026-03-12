@@ -13,7 +13,6 @@ Jesse Freeman's [Introducing HTML5 Game Development](http://www.amazon.com/gp/pr
 ## Video Tutorials
 
 - [Create a Game](documentation-video-tutorial-create-a-game.md) - Building the game Pong from start to finish
-- [Working with Weltmeister](documentation-video-tutorial-weltmeister.md) - How the level editor works and how you can create your own entities to be used by it
 
 ## Topics
 

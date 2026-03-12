@@ -1,6 +1,6 @@
 # Weltmeister
 
-This article will teach you the basics of the Weltmeister Level Editor. Note that there's also a [video tutorial](documentation-video-tutorial-weltmeister.md) available.
+This article will teach you the basics of the Weltmeister Level Editor.
 
 ## Starting Weltmeister
 
